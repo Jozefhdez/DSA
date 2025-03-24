@@ -6,41 +6,41 @@ This repository contains implementations of **Data Structures and Algorithms (DS
 ## **📂 Folder Structure**
 
 ```
-DSA_Repaso/
-│── 01_Data_Structures/
-│   ├── 01_Lists.py
-│   ├── 02_Stacks.py
-│   ├── 03_Queues.py
-│   ├── 04_Linked_Lists.py
-│   ├── 05_Hash_Tables.py
-│   ├── 06_Trees.py
-│   ├── 07_Graphs.py
-│   ├── 08_Trie.py
-│── 02_Sorting_Algorithms/
-│   ├── 01_Bubble_Sort.py
-│   ├── 02_Selection_Sort.py
-│   ├── 03_Insertion_Sort.py
-│   ├── 04_Merge_Sort.py
-│   ├── 05_Quick_Sort.py
-│   ├── 06_Heap_Sort.py
-│   ├── 07_Counting_Sort.py
-│── 03_Search_Algorithms/
-│   ├── 01_Linear_Search.py
-│   ├── 02_Binary_Search.py
-│   ├── 03_Jump_Search.py
-│   ├── 04_Exponential_Search.py
-│── 04_Graph_Algorithms/
-│   ├── 01_BFS.py
-│   ├── 02_DFS.py
-│   ├── 03_Dijkstra.py
-│   ├── 04_Bellman_Ford.py
-│   ├── 05_Floyd_Warshall.py
-│   ├── 06_Prim.py
-│   ├── 07_Kruskal.py
-│── 05_String_Algorithms/
-│   ├── 01_KMP.py
-│   ├── 02_Rabin_Karp.py
-│   ├── 03_Z_Algorithm.py
+dsa_repaso/
+│── data_structures/
+│   ├── lists.py
+│   ├── stacks.py
+│   ├── queues.py
+│   ├── linked_lists.py
+│   ├── hash_tables.py
+│   ├── trees.py
+│   ├── graphs.py
+│   ├── trie.py
+│── sorting_algorithms/
+│   ├── bubble_sort.py
+│   ├── selection_sort.py
+│   ├── insertion_sort.py
+│   ├── merge_sort.py
+│   ├── quick_sort.py
+│   ├── heap_sort.py
+│   ├── counting_sort.py
+│── search_algorithms/
+│   ├── linear_search.py
+│   ├── binary_search.py
+│   ├── jump_search.py
+│   ├── exponential_search.py
+│── graph_algorithms/
+│   ├── bfs.py
+│   ├── dfs.py
+│   ├── dijkstra.py
+│   ├── bellman_ford.py
+│   ├── floyd_warshall.py
+│   ├── prim.py
+│   ├── kruskal.py
+│── string_algorithms/
+│   ├── kmp.py
+│   ├── rabin_karp.py
+│   ├── z_algorithm.py
 │── README.md
 ```
 
