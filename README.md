@@ -27,8 +27,6 @@ dsa_repaso/
 │── search_algorithms/
 │   ├── linear_search.py
 │   ├── binary_search.py
-│   ├── jump_search.py
-│   ├── exponential_search.py
 │── graph_algorithms/
 │   ├── bfs.py
 │   ├── dfs.py
