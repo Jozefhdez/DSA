@@ -13,17 +13,20 @@ dsa_repaso/
 │   ├── queues.py
 │   ├── linked_lists.py
 │   ├── hash_tables.py
-│   ├── trees.py
-│   ├── graphs.py
+│   ├── binary_search_tree.py
+│   ├── avl_tree.py
+│   ├── heap_tree.py
+│   ├── splay_tree.py
 │   ├── trie.py
+│   ├── graphs.py
 │── sorting_algorithms/
 │   ├── bubble_sort.py
 │   ├── selection_sort.py
 │   ├── insertion_sort.py
 │   ├── merge_sort.py
 │   ├── quick_sort.py
-│   ├── heap_sort.py
-│   ├── counting_sort.py
+│   ├── exchange_sort.py
+│   ├── comb_sort.py
 │── search_algorithms/
 │   ├── linear_search.py
 │   ├── binary_search.py
