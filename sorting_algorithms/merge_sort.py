@@ -70,7 +70,7 @@ def merge_sort(array: list[int], left: int, right: int) -> None:
         merge_sort(array, mid + 1, right)
         merge(array, left, mid, right)
 
-def print_array(arr_1: list[int]) -> None:
+def print_array(array: list[int]) -> None:
     """
     Prints the elements of an array in a single line.
 
@@ -79,7 +79,7 @@ def print_array(arr_1: list[int]) -> None:
     Time Complexity: O(n), where n is the number of elements in `arr`.
     Space Complexity: O(1), as no additional space is used.
     """
-    for i in arr_1:
+    for i in array:
         print(i, end=" ")
     print()
 
