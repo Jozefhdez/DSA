@@ -47,24 +47,24 @@ dsa_repaso/
 
 ## **📝 Topics Covered (Ongoing)**
 
-This section is continuously updated as I progress in learning and implementing additional data structures and algorithms. Currently, the intended topics for this repo include:
+This section is continuously updated as I progress in implementing additional data structures and algorithms. Currently, the intended topics for this repo include:
 
-- **Data Structures**: Lists, Stacks, Queues, Linked Lists, Hash Tables, Trees, Graphs, Tries.
-- **Sorting Algorithms**: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Counting Sort.
-- **Search Algorithms**: Linear Search, Binary Search, Jump Search, Exponential Search.
+- **Data Structures**: Lists, Stacks, Queues, Linked Lists, Hash Tables, Binary Search Tree, AVL Tree, Heap Tree, Splay Tree, Tries, Graphs.
+- **Sorting Algorithms**: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Exchange Sort, Comb Sort.
+- **Search Algorithms**: Linear Search, Binary Search.
 - **Graph Algorithms**: BFS, DFS, Dijkstra, Bellman-Ford, Floyd-Warshall, Prim, Kruskal.
 - **String Algorithms**: KMP, Rabin-Karp, Z Algorithm.
 
 ## **🚀 How to Use**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/DSA_Repaso.git
+   git clone https://github.com/jozefhdez/DSA.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd DSA_Repaso
+   cd DSA
    ```
 3. Run any Python script:
    ```sh
-   python 01_Data_Structures/01_Lists.py
+   python3 search_algorithms/binary_search.py
    ```
